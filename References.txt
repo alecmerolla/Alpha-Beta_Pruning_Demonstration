@@ -1,0 +1,17 @@
+References
+
+[1] “123RF.” 123RF, www.123rf.com/clipart-vector/adversary.html?alttext=1&orderby=2&start=200&sti=nz6lz8eu10mlp8mbst%7C.
+
+[2] “3d Small People - Against Each Other Stock Illustration.” CanStockPhoto, www.canstockphoto.com/3d-small-people-against-each-other-25435402.html.
+
+[3] “Aladdin Disney GIF.” Tenor, tenor.com/view/aladdin-disney-cartoons-jasmine-ican-show-you-the-world-gif-4545341.
+
+[4] “Effective Cliparts #92842.” Clip Art Library, clipart-library.com/clipart/560296.htm.
+
+[5] “NONNO GIARDINIERE.” Disegni Da Colorare Online, www.disegnidacolorareonline.com/disegni-colorati/nonno-giardiniere-colorato.
+
+[6] “Scissors Inverted View Free Icon.” Flat Icon, www.flaticon.com/free-icon/scissors-inverted-view_26532.
+
+[7] “Tree Pruning and Maintenance .” Tree Pruning Clipart Free, www.disegnidacolorareonline.com/disegni-colorati/nonno-giardiniere-colorato.
+
+[8] Russell, S. J., & Norvig, P. (2010). Artificial intelligence: A modern approach. United States: Pearson Education. For general information about minimax, adversarial search algorithm and alpha-beta pruning.
